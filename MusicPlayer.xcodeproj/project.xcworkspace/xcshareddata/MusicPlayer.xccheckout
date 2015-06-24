@@ -6,29 +6,33 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>CB530180-B79C-45D9-BE26-CD71A8A6D167</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MusicPlayer</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>0E7BC1A697616651AD67993425D91F85FE0F9F50</key>
+		<key>BDF67F76CF0D404814F0759B131A91146C4835CF</key>
 		<string>https://github.com/hujewelz/MusicPlayer.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MusicPlayer.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>0E7BC1A697616651AD67993425D91F85FE0F9F50</key>
-		<string>MusicPlayer/</string>
+		<key>BDF67F76CF0D404814F0759B131A91146C4835CF</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/hujewelz/MusicPlayer.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0E7BC1A697616651AD67993425D91F85FE0F9F50</string>
+	<string>BDF67F76CF0D404814F0759B131A91146C4835CF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>0E7BC1A697616651AD67993425D91F85FE0F9F50</string>
+			<string>BDF67F76CF0D404814F0759B131A91146C4835CF</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MusicPlayer</string>
 		</dict>
